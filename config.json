@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerspdate",
+        "uuid": 8657059,
+        "checksum": "kvczvv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
